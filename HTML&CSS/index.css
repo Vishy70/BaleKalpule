@@ -1,0 +1,26 @@
+h1  {
+    color: aqua;
+}
+
+.blue 
+{
+    color:red;
+    background-color: aqua;
+}
+
+.red
+{
+    color: black;
+}
+
+#head
+{
+    font-size: xx-large;
+    color:blueviolet;
+}
+
+.blue:hover
+{
+    color:pink;
+    background-color: chocolate;
+}
